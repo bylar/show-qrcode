@@ -1,6 +1,10 @@
-# .
+# SHOW QRCODE
 
-This template should help get you started developing with Vue 3 in Vite.
+This page is only for easy to transform text to qrcode.
+
+``` 
+Like https://bylar.github.io/show-qrcode/#{text} 
+```
 
 ## Recommended IDE Setup
 
